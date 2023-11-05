@@ -35,4 +35,7 @@
 .tasks{
     background-color: white;
     border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
 }
